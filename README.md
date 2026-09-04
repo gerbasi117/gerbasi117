@@ -6,7 +6,7 @@ I build AI and robotics systems across software, edge compute, sensors, electron
 
 Current Work
 
-Otto — Distributed Local AI
+Otto - Distributed Local AI
 Two-node private AI platform with local LLM inference, speech, memory, grounded knowledge, protected tools, health monitoring, recovery, and custom wake-word ML development.
 
 Custom Field Robotics UAV
